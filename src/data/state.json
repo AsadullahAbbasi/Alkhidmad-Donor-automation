@@ -1,0 +1,862 @@
+{
+  "sessions": [
+    {
+      "id": "b3abdde0-7c40-48c5-b835-b98818fc8557",
+      "createdAt": "2026-06-06T09:51:10.747Z",
+      "bloodGroupNeeded": "O-",
+      "targetLocation": "Lyari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "305041154",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D044",
+          "name": "Asif Raza",
+          "phone": "323995870",
+          "bloodGroup": "O-",
+          "location": "Saddar",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D101",
+          "name": "Kashif Malik",
+          "phone": "334918527",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D141",
+          "name": "Imran Siddiqui",
+          "phone": "301882629",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D184",
+          "name": "Yasir Ahmed",
+          "phone": "333795835",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D204",
+          "name": "Zayan Zaid",
+          "phone": "339367799",
+          "bloodGroup": "O-",
+          "location": "Lyari",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D209",
+          "name": "Hamza Malik",
+          "phone": "349541658",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D211",
+          "name": "Junaid Ali",
+          "phone": "329511333",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "2e7f9874-6ac8-4e65-b750-b0671febd349",
+      "createdAt": "2026-06-06T09:57:21.300Z",
+      "bloodGroupNeeded": "O+",
+      "targetLocation": "Orangi",
+      "donors": [
+        {
+          "donorId": "D006",
+          "name": "Ahmed Raza",
+          "phone": "307377459",
+          "bloodGroup": "O+",
+          "location": "SITE",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D007",
+          "name": "Tariq Ali",
+          "phone": "303871230",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D013",
+          "name": "Farhan Memon",
+          "phone": "305476583",
+          "bloodGroup": "O+",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "305041154",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D048",
+          "name": "Faisal Siddiqui",
+          "phone": "333919694",
+          "bloodGroup": "O+",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D089",
+          "name": "Kiran Memon",
+          "phone": "341348050",
+          "bloodGroup": "O+",
+          "location": "SITE",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D092",
+          "name": "Hamza Zaid",
+          "phone": "331615675",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D116",
+          "name": "Omar Zaid",
+          "phone": "326682698",
+          "bloodGroup": "O+",
+          "location": "New Karachi",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D185",
+          "name": "Tariq Memon",
+          "phone": "302258981",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D187",
+          "name": "Ali Shiekh",
+          "phone": "343574265",
+          "bloodGroup": "O-",
+          "location": "Orangi",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D208",
+          "name": "Junaid Memon",
+          "phone": "342993318",
+          "bloodGroup": "O+",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D209",
+          "name": "Hamza Malik",
+          "phone": "349541658",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D217",
+          "name": "Zayan Memon",
+          "phone": "329123194",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "de2c6c72-b293-4c34-91b6-b31316a6f7d7",
+      "createdAt": "2026-06-06T10:07:50.870Z",
+      "bloodGroupNeeded": "A-",
+      "targetLocation": "Orangi",
+      "donors": [
+        {
+          "donorId": "D007",
+          "name": "Tariq Ali",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D065",
+          "name": "Mariam Siddiqui",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "New Karachi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D092",
+          "name": "Hamza Zaid",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D093",
+          "name": "Yasir Qureshi",
+          "phone": "92308394040",
+          "bloodGroup": "A-",
+          "location": "SITE",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D149",
+          "name": "Siddique Malik",
+          "phone": "923343834668",
+          "bloodGroup": "A-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D185",
+          "name": "Tariq Memon",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D187",
+          "name": "Ali Shiekh",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Orangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D209",
+          "name": "Hamza Malik",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D217",
+          "name": "Zayan Memon",
+          "phone": "923343834668",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D235",
+          "name": "Ali Hassan",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "0cfead69-eb20-4922-8c34-71f4491dee17",
+      "createdAt": "2026-06-06T10:31:45.563Z",
+      "bloodGroupNeeded": "A-",
+      "targetLocation": "Malir",
+      "donors": [
+        {
+          "donorId": "D012",
+          "name": "Ali Abbasi",
+          "phone": "923343834668",
+          "bloodGroup": "A-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D022",
+          "name": "Iqra Sheikh",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D025",
+          "name": "Kashif Zaid",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D029",
+          "name": "Zayan Ahmed",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D032",
+          "name": "Farhan Ansari",
+          "phone": "923343834668",
+          "bloodGroup": "A-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D034",
+          "name": "Kashif Qureshi",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "Landhi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D067",
+          "name": "Tariq Ali",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D076",
+          "name": "Tariq Memon",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "Gadap",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D081",
+          "name": "Ali Malik",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D103",
+          "name": "Zainab Bibi",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D110",
+          "name": "Sadia Bibi",
+          "phone": "92308394040",
+          "bloodGroup": "A-",
+          "location": "Landhi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D118",
+          "name": "Asif Khan",
+          "phone": "92308394040",
+          "bloodGroup": "A-",
+          "location": "Landhi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D122",
+          "name": "Bilal Hassan",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D146",
+          "name": "Kashif Farooqi",
+          "phone": "923343834668",
+          "bloodGroup": "O-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D152",
+          "name": "Iqra Bano",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Gadap",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D160",
+          "name": "Siddique Raza",
+          "phone": "923343834668",
+          "bloodGroup": "O-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D173",
+          "name": "Farhan Shah",
+          "phone": "923343834668",
+          "bloodGroup": "A-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D178",
+          "name": "Mariam Siddiqui",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D188",
+          "name": "Tariq Siddiqui",
+          "phone": "923346250250",
+          "bloodGroup": "A-",
+          "location": "Malir",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D191",
+          "name": "Iqra Memon",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Landhi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D194",
+          "name": "Faisal Zaid",
+          "phone": "92308394040",
+          "bloodGroup": "A-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D196",
+          "name": "Zubair Ali",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Gadap",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D229",
+          "name": "Asif Zaid",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D232",
+          "name": "Saba Qureshi",
+          "phone": "92308394040",
+          "bloodGroup": "A-",
+          "location": "Gadap",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D250",
+          "name": "Mustafa Siddiqui",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Shah Faisal",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "9b02e095-0af6-4acd-8fbe-0bdc40500550",
+      "createdAt": "2026-06-06T10:38:45.509Z",
+      "bloodGroupNeeded": "O-",
+      "targetLocation": "Lyari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D044",
+          "name": "Asif Raza",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Saddar",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D101",
+          "name": "Kashif Malik",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D141",
+          "name": "Imran Siddiqui",
+          "phone": "923343834668",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D184",
+          "name": "Yasir Ahmed",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D204",
+          "name": "Zayan Zaid",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Lyari",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D209",
+          "name": "Hamza Malik",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D211",
+          "name": "Junaid Ali",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "Keamari",
+          "whatsappStatus": "pending",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "52b05156-9c49-4d53-b4f3-5faf25d170b9",
+      "createdAt": "2026-06-06T10:42:51.826Z",
+      "bloodGroupNeeded": "O+",
+      "targetLocation": "Lyari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D024",
+          "name": "Bilal Malik",
+          "phone": "923346250250",
+          "bloodGroup": "O+",
+          "location": "Jamshed Town",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "f265877d-a6f7-46cd-8877-49ebec5800cb",
+      "createdAt": "2026-06-06T10:46:42.163Z",
+      "bloodGroupNeeded": "O+",
+      "targetLocation": "Malir",
+      "donors": [
+        {
+          "donorId": "D056",
+          "name": "Kiran Bano",
+          "phone": "923346250250",
+          "bloodGroup": "O+",
+          "location": "Landhi",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D076",
+          "name": "Tariq Memon",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "Gadap",
+          "whatsappStatus": "failed",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "d4d9ba93-97d5-475b-ad01-4abe0cfccf7d",
+      "createdAt": "2026-06-06T10:50:26.371Z",
+      "bloodGroupNeeded": "A-",
+      "targetLocation": "Gulshan-e-Iqbal",
+      "donors": [
+        {
+          "donorId": "D007",
+          "name": "Tariq Ali",
+          "phone": "923477212290",
+          "bloodGroup": "O-",
+          "location": "North Nazimabad",
+          "whatsappStatus": "sent",
+          "reply": "yes",
+          "repliedAt": "2026-06-06T10:52:04.160Z"
+        },
+        {
+          "donorId": "D025",
+          "name": "Kashif Zaid",
+          "phone": "923477212290",
+          "bloodGroup": "A-",
+          "location": "Korangi",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "06555fa7-7179-4025-8660-f79e7bee984a",
+      "createdAt": "2026-06-06T10:53:52.141Z",
+      "bloodGroupNeeded": "O+",
+      "targetLocation": "Lyari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        },
+        {
+          "donorId": "D024",
+          "name": "Bilal Malik",
+          "phone": "923346250250",
+          "bloodGroup": "O+",
+          "location": "Jamshed Town",
+          "whatsappStatus": "sent",
+          "reply": "pending",
+          "repliedAt": null
+        }
+      ]
+    },
+    {
+      "id": "95eace58-8571-4cee-9030-ccb7cb46a2a8",
+      "createdAt": "2026-06-06T10:55:49.552Z",
+      "bloodGroupNeeded": "A-",
+      "targetLocation": "Keamari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "yes",
+          "repliedAt": "2026-06-06T11:00:16.696Z"
+        },
+        {
+          "donorId": "D044",
+          "name": "Asif Raza",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Saddar",
+          "whatsappStatus": "sent",
+          "reply": "yes",
+          "repliedAt": "2026-06-06T11:00:30.244Z"
+        }
+      ]
+    },
+    {
+      "id": "78430b2f-69a5-4d2f-99a2-09dbc66f7c6e",
+      "createdAt": "2026-06-06T11:00:43.015Z",
+      "bloodGroupNeeded": "O-",
+      "targetLocation": "Lyari",
+      "donors": [
+        {
+          "donorId": "D016",
+          "name": "Salman Khan",
+          "phone": "92308394040",
+          "bloodGroup": "O-",
+          "location": "Baldia",
+          "whatsappStatus": "sent",
+          "reply": "yes",
+          "repliedAt": "2026-06-06T11:01:04.466Z"
+        },
+        {
+          "donorId": "D044",
+          "name": "Asif Raza",
+          "phone": "923346250250",
+          "bloodGroup": "O-",
+          "location": "Saddar",
+          "whatsappStatus": "sent",
+          "reply": "yes",
+          "repliedAt": "2026-06-06T11:01:05.706Z"
+        }
+      ]
+    }
+  ]
+}
